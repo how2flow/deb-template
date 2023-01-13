@@ -1,0 +1,18 @@
+# [field: general]
+Source: deb-template
+Section: misc
+Priority: optional
+Maintainer: Steve Jeong <how2soft@gmail.com>
+Build-Depends: debhelper (>= 10)
+
+# [field: binary packages]
+# Package 1
+Package: deb-template
+Architecture: any
+Multi-Arch: foreign
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: Packages that provide basic information
+  and structure of Debian Packaging.
+
+# Package 2
+# ...
