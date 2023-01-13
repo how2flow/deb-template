@@ -1,0 +1,5 @@
+deb-template (0.0.1) unstable; urgency=medium
+
+  * deb-template initial release.
+
+ -- Steve Jeong <how2soft@gmail.com>  Fri, 13 Jan 2023 12:11:25 +0900
