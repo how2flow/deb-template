@@ -1,3 +1,9 @@
+deb-template (0.0.2) stable; urgency=medium
+
+  * basic package template frame.
+
+ -- Steve Jeong <how2soft@gmail.com>  Fri, 20 Jan 2023 15:31:05 +0900
+
 deb-template (0.0.1) unstable; urgency=medium
 
   * deb-template initial release.
