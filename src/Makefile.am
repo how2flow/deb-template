@@ -1,3 +1,3 @@
-bin_PROGRAMS = debtemplate
+bin_PROGRAMS = debtemp
 
-debtemplate_SOURCES = main.c
+debtemp_SOURCES = main.c
