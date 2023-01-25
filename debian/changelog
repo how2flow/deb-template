@@ -1,3 +1,9 @@
+deb-template (0.0.3) stable; urgency=medium
+
+  * update "Standard-Version".
+
+ -- Steve Jeong <how2soft@gmail.com>  Wed, 25 Jan 2023 09:14:52 +0900
+
 deb-template (0.0.2) stable; urgency=medium
 
   * basic package template frame.
