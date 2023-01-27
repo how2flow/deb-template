@@ -19,7 +19,9 @@ int main(int argc, char *argv[])
 	while ((options =  getopt_long(argc, argv, sopts, lopts, NULL)) != -1) {
 		switch (options) {
 			case 'h':
-				printf("%s: This is normal call\n", argv[0]);
+				printf("Usage: debtemp\n");
+				printf("This is deb packaging template.\n");
+				printf("Check path of source and Clone source file.\n");
 				break;
 			case '?':
 				/* already printed err message. */
