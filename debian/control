@@ -3,7 +3,7 @@ Source: deb-template
 Section: misc
 Priority: optional
 Standards-Version: 0.0.2
-Maintainer: Steve Jeong <how2soft@gmail.com>
+Maintainer: Steve Jeong <steve@how2flow.net>
 Build-Depends: debhelper (>= 10)
 
 # [field: binary packages]
