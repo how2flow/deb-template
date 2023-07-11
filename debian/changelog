@@ -1,3 +1,9 @@
+deb-template (0.0.6) stable; urgency=medium
+
+  * The maintainer's email address has been changed.
+
+ -- Steve Jeong <steve@how2flow.net>  Tue, 11 Jul 2023 16:35:33 +0900
+
 deb-template (0.0.5) stable; urgency=medium
 
   * add debmake document.
